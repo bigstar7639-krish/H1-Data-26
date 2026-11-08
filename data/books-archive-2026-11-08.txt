@@ -47,3 +47,4 @@ Happiness - bwb_Y0-BSQ-074 - THE HIGHER HAPPINESS
 Happiness - bwb_S0-AHD-755 - The road to happiness and other essays
 Smile - bwb_S0-BLN-009 - A Tear and A Smile
 Smile - bwb_S0-BLP-672 - The Smile on the face of the tiger
+Heart - pubmed-PMC3890914 - Prevalence and pattern of psychiatric morbidity and health related quality of life in patients with ischemic heart disease in a tertiary care hospital.
