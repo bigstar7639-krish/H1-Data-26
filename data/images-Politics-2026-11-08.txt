@@ -67,3 +67,4 @@ Politics - Wikimedia - https://commons.wikimedia.org/wiki/File:Flag_House_of_Com
 Politics - Openverse - https://www.flickr.com/photos/45982423@N00/3348346662
 Politics - Openverse - https://www.flickr.com/photos/36612355@N08/24716317521
 Politics - Openverse - https://www.flickr.com/photos/58627294@N00/384745410
+Politics - Unsplash - https://source.unsplash.com/800x600/?politics%20vote
