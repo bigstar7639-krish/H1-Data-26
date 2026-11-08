@@ -55,3 +55,6 @@ A: Cherry - Vehicles
 Auto Quiz - Law 🧠
 Q: In web design, what does CSS stand for?
 A: Cascading Style Sheet - Science: Computers
+Auto Quiz - Education 🧠
+Q: Bela Lugosi was a Hungarian-American actor best known for his starring role of what 1931 horror film?
+A: Count Dracula - Entertainment: Film
