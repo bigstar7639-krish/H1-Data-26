@@ -51,3 +51,4 @@ Heart - pubmed-PMC3890914 - Prevalence and pattern of psychiatric morbidity and 
 Heart - pubmed-PMC4024672 - Effect of slow versus rapid rewarming on jugular bulb oxygen saturation in adult patients undergoing open heart surgery.
 Future - bwb_Y0-CCR-367 - Canada the foundations of its future
 Future - bwb_W9-CPW-638 - An Overview Of Ten Trends Educating Childre For a Profoundly Different Future
+Freedom - bwb_S0-ATH-647 - vanishing dinosaur freedom as vocation
