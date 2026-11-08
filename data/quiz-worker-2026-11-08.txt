@@ -103,3 +103,6 @@ A: Bane - Entertainment: Film
 Auto Quiz - Osaka 🧠
 Q: Which variant of the MP5 is depicted in Counter-Strike 1.6?
 A: MP5N - Entertainment: Video Games
+Auto Quiz - Japanese Temple 🧠
+Q: Which city is the seat of government of the Netherlands?
+A: The Hague - Politics
