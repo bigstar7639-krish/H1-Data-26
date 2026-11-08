@@ -88,3 +88,6 @@ A: 1,000,000 - Science: Mathematics
 Auto Quiz - Sakura 🧠
 Q: What year was O.J. Simpson aquitted of his murder charges?
 A: 1995 - Celebrities
+Auto Quiz - Anime 🧠
+Q: Which of the following mathematicians made major contributions to game theory?
+A: John Von Neumann - Science: Mathematics
