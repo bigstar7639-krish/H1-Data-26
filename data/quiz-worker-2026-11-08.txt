@@ -52,3 +52,6 @@ A: 2008 - Entertainment: Japanese Anime & Manga
 Auto Quiz - Politics 🧠
 Q: What was the name of the first front-wheel-drive car produced by Datsun (now Nissan)?
 A: Cherry - Vehicles
+Auto Quiz - Law 🧠
+Q: In web design, what does CSS stand for?
+A: Cascading Style Sheet - Science: Computers
