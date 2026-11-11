@@ -134,3 +134,7 @@ Cat - morphologicaleff0000pres - The morphological effects of infant-and adult-o
 Cat - bwb_KU-147-693 - A cat in the Window
 Dog - givedogbone0000okan_o9l6 - Give the dog a bone
 Dog - isbn_9780780780644 - A Dog Named Sam
+Food - lunchboxfood0000shar_x1h2 - Lunch Box Food
+Food - thomasfoodbevera0000rich - Thomas Food & Beverage Market Place 2006 (Thomas Food and Beverage Market Place)
+Cricket - bwb_KV-028-408 - It Isn't Cricket
+Cricket - bwb_S0-EBY-685 - A Christmas Carol , The Cricket on the Hearth
