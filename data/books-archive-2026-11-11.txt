@@ -82,3 +82,5 @@ Taj Mahal - bwb_KV-445-063 - THE TAJ MAHAL
 Taj Mahal - eparlib.nic.in.423703 - PROTECTION OF TAJ MAHAL (8-May-2000)
 Eiffel Tower - eiffeltowerincid0000stev - The Eiffel Tower incident
 Eiffel Tower - CIA-RDP96-00789R001401090001-6 - PROJECT: 0724 WRV TRAINING, EIFFEL TOWER, VIEWER 25 2 NOV 88
+Psychology - isbn_9780558105211 - Organizational & Industrial Psychology, Custom Edition
+Psychology - isbn_0536662908 - The 21st Century: A Psychology of Communication Perspective
