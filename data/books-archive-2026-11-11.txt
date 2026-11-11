@@ -142,3 +142,6 @@ Space - perceptionextens0000ralp - Perception, Extension, And Enclosure Of Space
 Space - bwb_C0-BNX-912 - That Manuscript from outer space
 Story - bwb_C0-CEK-542 - THE AMERICAN DREAM AND THE ZOO STORY
 Story - bwb_C0-CCZ-075 - ontario womens institute story
+Health - bwb_KU-773-442 - The Cost of Health
+Health - pubmed-PMC3890914 - Prevalence and pattern of psychiatric morbidity and health related quality of life in patients with ischemic heart disease in a tertiary care hospital.
+Music - churchmusicinhis0000winf_z3f4 - Church Music in History and Practice
